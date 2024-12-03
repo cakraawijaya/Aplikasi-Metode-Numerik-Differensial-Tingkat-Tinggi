@@ -13,7 +13,7 @@ Program Aplikasi Diferensial Tingkat Tinggi.
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
-| Fitur | Komputasi, Validasi |
+| Fitur | • Komputasi<br>• Validasi |
 | Peralatan | Dev C++ |
 
 <br>
