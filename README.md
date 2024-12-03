@@ -13,7 +13,7 @@ Higher Order Differential Application Program.
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Features | Computation, Validation |
+| Features | • Computation<br>• Validation |
 | Tools | Dev C++ |
 
 <br>
